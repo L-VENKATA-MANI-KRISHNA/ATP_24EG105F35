@@ -52,4 +52,3 @@ node Day1.js/Day1AssignmentQ1(BiggestOfTwoNumbers).js
 node Day2.js/Day2AssignmentQ1(Array_Object_Operations).js
 ```
 
-Happy coding!
